@@ -8,7 +8,6 @@ On Sunday the 8th Jan, we met physically at our mentor's house. Viraj and Vighne
 
 For the first building part of the chassis, the three of us were Sai Pranav, Viraj and Druv. We realised we did not have enough parts to make the strafer chassis last time because we had opened the assembly manual for the strafer chassis v5, but our kit was that of v4. After discovering this issue, we quickly corrected our mistake and opened the right manual for v3. Then we started building it, and after some teamwork struggle, finding the right screw, finding the right parts and a lot of other challenges, we finally managed to complete the strafer chassis. 
 
-![Chassis](/images/blogs/blog10/blog10_4.jpg)
 
 We first created a simple code that could move the robot linearly. Then we changed the program to move according to the joystick instead of according to a set value. After this, we figured out how to move the robot sideways.
 <video style="padding: 10px;
