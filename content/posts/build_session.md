@@ -13,7 +13,7 @@ We first created a simple code that could move the robot linearly. Then we chang
 <video style="padding: 10px;
             border-radius: 35px;
             width: 50% ;
-            overflow: hidden;" muted>
+            overflow: hidden;" controls muted>
             <source src="/images/blogs/blog10/blog10_3.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
