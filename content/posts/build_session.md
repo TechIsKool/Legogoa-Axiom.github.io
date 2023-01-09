@@ -13,7 +13,7 @@ For the first building part of the chassis, the three of us were Sai Pranav, Vir
 We first created a simple code that could move the robot linearly. Then we changed the program to move according to the joystick instead of according to a set value. After this, we figured out how to move the robot sideways.
 <video style="padding: 10px;
             border-radius: 35px;
-            width: 95% ;
+            width: 50% ;
             overflow: hidden;" muted>
             <source src="/images/blogs/blog10/blog10_3.mp4" type="video/mp4">
             Your browser does not support the video tag.
@@ -25,7 +25,7 @@ Since our robot uses mecanum wheels, we need to code them differently. The mecan
 The ML team consisting of Viraj and Vighnesh worked on training the cone model, uploading it as an OP mode, and experimenting with it.
 We first mounted the camera on the robot and drove the robot in both directions as in to give the feel of what the robot might see in an actual match.
 
-![cone](images/blogs/blog10/blog10_1.jpg)
+![cone](images/blogs/blog10/blog10_1.png)
 
 We split up into two teams. One team worked on the slider, and we finished it, including the motor attachment; the only thing left was stringing it.
 
