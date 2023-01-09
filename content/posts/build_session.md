@@ -1,7 +1,7 @@
 ---
 title: "Build session"
 date: 2023-01-09
-description: ''
+description: 'On Sunday the 8th Jan, we met physically at our mentors house. Viraj and Vighnesh conducted a session for the team members to learn about pull requests. Aditya, Aniket and Dhruv attended the session. Aniket even created a pull request regarding this outreach activity at Progress High School.'
 image: images/blogs/blog10/blog10_4.jpg
 ---
 On Sunday the 8th Jan, we met physically at our mentor's house. Viraj and Vighnesh conducted a session for the team members to learn about pull requests. Aditya, Aniket and Dhruv attended the session. Aniket even created a pull request regarding this outreach activity at Progress High School.
