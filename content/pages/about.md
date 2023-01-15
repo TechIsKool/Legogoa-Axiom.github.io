@@ -217,3 +217,21 @@ I am a 13 year old tech savvy enthusiast who loves to explore especially in the 
 
 ![venkatesh](/images/team_members/vd.png)
 </details>
+<br>
+<details>
+<summary style="font-size:32px; font-weight:bold; color: black; font-family: 'Poppins', sans-serif;">👨‍💻 Shounak Hede</summary>
+At the age of 8, I started working on Robotics. At the age of 9, I participated in the World Robotic Olympiad (WRO) 2019 held at Bhopal. I have completed the basic and advanced course in Scratch programming, MIT App inventor and Python programming. I have keen interest in music and passed Level 2 examination of Trinity School of Music, England for playing Electronic Keyboard.
+ 
+
+### My Achievements:
+
+1. Participated in the World Robotic Olympiad (WRO) 2019, a global Robotic competition for young people using Lego Mindstorm kits. My team Roborex Goa stood 6th at the Regional Level.
+2. Participated in the World Robotic Olympiad (WRO) 2020x Canada held online and our team Roborex Goa ranked 40th internationally amongst 100+ teams from all over the world.
+3. Participated in the World Robotic Olympiad(WRO) 2021 and our Team Roborex Goa ranked 11th Indian National in the Junior Category. 
+4. Awarded the “Individual Best Game Winner” in the International Coding Contest – 2020 organized by FIRC (Future Innovators Robotics Competition) for developing a game by name of Con Corona using Scratch programming.
+5. My team Roborex Goa also grabbed the “Team Champion Winner Award” for best MIT App Inventor for developing App by name of “Kill Corona”, a quiz to test awareness on Covid 19.
+6. Conducted Robotic Workshops in many schools and cities of Goa.  
+
+
+![venkatesh](/images/team_members/shounak2.png)
+</details>
