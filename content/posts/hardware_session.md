@@ -2,7 +2,7 @@
 title: "Hardware Session"
 date: 2023-01-10
 description: 'On 10 January 2023, Avneesh, Sai Pranav & Venkatesh had a hardware at their mentor Saieesh Gandhi's place.'
-image: images/blogs/blog10.png
+image: images/blogs/blog11.png
 ---
 On 10th January, we met physically at our mentor’s house. Venkatesh , Sai Pranav and Avneesh were present.
 
