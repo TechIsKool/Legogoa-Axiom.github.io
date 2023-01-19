@@ -94,7 +94,7 @@ I study in the 9th grade from Mushtifund. I like programming. I KNOW ARDUINO, Py
 <br>
 <details>
 <summary style="font-size:32px; font-weight:bold; color: black; font-family: 'Poppins', sans-serif;">👨‍💻 Aaryan Gole</summary>
-I like to do Java and Python programming and do things with Arduino.
+I study in class 8th, Kendriya Vidyalaya INS Mandovi. I like to do Java and Python programming and do different things with Arduino.
 
 ### My Achievements:
 1) Achieved 3rd Runner Up in UCMAS Abacus and Mental Arithmetic International Competition 2015.
